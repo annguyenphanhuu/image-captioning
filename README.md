@@ -23,4 +23,4 @@ git clone https://github.com/annguyenphanhuu/image-captioning.git
 streamlit run app.py
 ```
 ## Google Colab
-You can run on [Google Colab]([https://colab.research.google.com/](https://colab.research.google.com/drive/1MhGeYQEXdIKs46SpSS4rHnjRagMaMX9I?usp=drive_link))
+You can run on [Google Colab](https://colab.research.google.com/drive/1MhGeYQEXdIKs46SpSS4rHnjRagMaMX9I?usp=drive_link)
